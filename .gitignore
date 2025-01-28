@@ -1,0 +1,10 @@
+
+# Ignore everything by default
+/*
+
+# Allow specific directories
+!/mods/
+!/datapacks/
+!/resourcepacks/
+!.gitattributes
+!.gitignore
